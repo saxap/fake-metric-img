@@ -3,6 +3,7 @@ fake-metric-img
 
 generate fake image of yandex metric for wordpress sites
 
+Plugin URL and description: http://dontforget.pro/wordpress/plagin-feykovogo-schetchika-ot-yandeksa-dlya-wordpress/
 
 install
 ===============
