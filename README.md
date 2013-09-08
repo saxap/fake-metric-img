@@ -11,4 +11,4 @@ Put "fake-metric-img" folder in wp/content/plugins/ directory
 
 Add in footer.php of your theme:
 
-&lt;a href="http://metrika.yandex.ru/">&lt;img src="/wp-content/plugins/fake-metric-img/img-new.png" style="margin-right: 5px;" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="metric"/>&lt;/a>
+&lt;a href=&quot;http://metrika.yandex.ru/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/wp-content/plugins/fake-metric-img/img-new.png&quot; style=&quot;margin-right: 5px;&quot; title=&quot;Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)&quot; class=&quot;metric&quot;/&gt;&lt;/a&gt;
